@@ -1,4 +1,5 @@
 **PRUEBA AUTOMATIZADA LAT MOBILE**
+
 Se realizar la prueba automatizada del sitio web https://demo.casino, el cual se pide el registro de usurios, usando playwright y TypeScritp.
 
 🚀 Instalación
