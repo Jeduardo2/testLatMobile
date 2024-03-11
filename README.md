@@ -7,7 +7,7 @@ en caso de no tener instaladas las herramientas basicas, realizar los siguientes
 
 -Abrir la terminal desde Visual Studio Code y Navegar hasta a la carpeta donde se encuentre el proyecto y ejecutar los siguientes comandos que se indican
    * ruta de ejemplo que se visualizara en la terminal:
-     "PS C:\Users\juanperez\Documents\juanperez\Desktop\latMobile\testLatMobile> "
+     " PS C:\Users\juanperez\Documents\juanperez\Desktop\latMobile\testLatMobile> "
 # Instalar Playwright
     npm install @playwright/test --save-dev
 
