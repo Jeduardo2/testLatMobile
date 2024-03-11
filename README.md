@@ -5,15 +5,18 @@ Se realizar la prueba automatizada del sitio web https://demo.casino, el cual se
 en caso de no tener instaladas las herramientas basicas, realizar los siguientes pasos:
 - Asegúrate de tener Node.js instalado en tu sistema.
 
-    # Instalar Playwright
+-Abrir la terminal desde Visual Studio Code y Navegar hasta a la carpeta donde se encuentre el proyecto y ejecutar los siguientes comandos que se indican
+   * ruta de ejemplo que se visualizara en la terminal:
+     "PS C:\Users\juanperez\Documents\juanperez\Desktop\latMobile\testLatMobile> "
+# Instalar Playwright
     npm install @playwright/test --save-dev
 
-   # Instalar TypeScript
+# Instalar TypeScript
     npm install typescript --save-dev
       
 - Clona este proyecto.
 - Abrirlo desde el IDE Visual Studo Code
-- Desde la consola ejecutar el siguiente comando, para ejecutar la prueba automatizada
+- Desde la consola de Visual Studio Code ejecutar el siguiente comando, para ejecutar la prueba automatizada
     npx playwright test
 
     
