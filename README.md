@@ -18,6 +18,7 @@ en caso de no tener instaladas las herramientas basicas, realizar los siguientes
 - Clona este proyecto.
 - Abrirlo desde el IDE Visual Studo Code
 - Desde la consola de Visual Studio Code ejecutar el siguiente comando, para ejecutar la prueba automatizada
-    npx playwright test
+
+  npx playwright test
 
     
